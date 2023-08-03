@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-Sucol-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sucol) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victor_revoredo_s2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-revoredo-146a98215) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22328004/victor-revoredo) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/RukimichimoshiP) [![Gmail](https://img.shields.io/badge/vitinhorevoredo123%40gmail.com-black?style=plastic&logo=Gmail&logoColor=white&label=Gmail&labelColor=green)]
+[![Discord](https://img.shields.io/badge/Discord-Sucol-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sucol) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victor_revoredo_s2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-revoredo-146a98215) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22328004/victor-revoredo) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/RukimichimoshiP)
+![Gmail](https://img.shields.io/badge/vitinhorevoredo123%40gmail.com-black?style=plastic&logo=Gmail&logoColor=white&label=Gmail&labelColor=green)
 
 
 # 💻 Tech Stack:
